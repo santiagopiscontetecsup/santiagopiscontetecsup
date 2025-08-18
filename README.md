@@ -1,4 +1,4 @@
-<h1 align="center">Hola , Soy Santiago Joel Pisconte 👋</h1>
+<h1 align="center">Hola , Soy PisconteDev 👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23406796&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+Full+Stack+Junior;Egresado+de+TECSUP;Apasionado+por+la+Tecnología;Experiencia+en+.NET+Hexagonal+y+Microservicios;React,+Next.js+y+React+Native;Unity+con+C%23;Siempre+aprendiendo+nuevas+cosas">
@@ -8,7 +8,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=santiagopisconte&label=Visitas%20al%20perfil&color=0047AB&style=plastic" alt="santiagopisconte" height=25px width=200px/> 
+	<img src="https://komarev.com/ghpvc/?username=santiagopiscontetecsup&label=Visitas%20al%20perfil&color=0047AB&style=plastic" alt="santiagopiscontetecsup" height=25px width=200px/> 
 </p>
 
 	
@@ -89,19 +89,19 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px></picture> Estadísticas de GitHub
 
 <details><summary><h3>🔥 Racha de contribuciones</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagopisconte&theme=tokyonight_duo" alt="santiagopisconte" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagopiscontetecsup&theme=tokyonight_duo" alt="santiagopiscontetecsup" /></p>
 </details>
 
 <details><summary><h3>💻 Mis estadísticas</h3></summary>
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=santiagopisconte&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagopisconte&langs_count=10&show_icons=true&locale=es&theme=tokyonight" height="230px"/>
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=santiagopiscontetecsup&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagopiscontetecsup&langs_count=10&show_icons=true&locale=es&theme=tokyonight" height="230px"/>
 </p>
 </details>
 
 <details><summary><h3>⚡ Actividad reciente</h3></summary>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santiagopisconte&theme=github" alt="Actividad GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santiagopiscontetecsup&theme=github" alt="Actividad GitHub"/>
 </p>
 </details>
 
@@ -109,5 +109,5 @@
 
 ## 🐍 Snake de contribuciones
 <p align="center">
-	<img src="https://github.com/santiagopisconte/santiagopisconte/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
+	<img src="https://github.com/santiagopiscontetecsup/santiagopiscontetecsup/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 </p>
