@@ -26,7 +26,6 @@
 - 📚 Siempre aprendiendo nuevas tecnologías y metodologías ágiles `Scrum`.
 - 🔍 Actualmente en búsqueda de una nueva `oportunidad laboral`.
 - 🌎 Puedes visitar [MI PORTAFOLIO](https://piscontedev.netlify.app/).
-- 📄 Este es [MI CURRÍCULUM](https://piscontedev.netlify.app/cv.pdf).
 
 <br>
 
