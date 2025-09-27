@@ -1,6 +1,6 @@
 <h1 align="center">Hola , Soy PisconteDev 👋</h1>
 <p align="center">
-  <a href="https://github.com/santiagopiscontetecsup/santiagopiscontetecsup">
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23406796&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+Full+Stack+Junior;Egresado+de+TECSUP;Apasionado+por+la+Tecnología;Experiencia+en+.NET+Hexagonal+y+Microservicios;React,+Next.js+y+React+Native;Unity+con+C%23;Siempre+aprendiendo+nuevas+cosas">
   </a>
 </p>
@@ -80,7 +80,7 @@
 ---
 
 <p align="center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes">
+	<a href="#">
 	  <img alt="Frase motivacional" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 	</a>
 </p>
