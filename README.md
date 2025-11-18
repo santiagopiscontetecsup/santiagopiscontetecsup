@@ -24,7 +24,7 @@
 - 🌐 Desarrollo Frontend con `React`, `Next.js` y `React Native`.
 - 🎮 Experiencia en `videojuegos 2D` con `Unity y C#`.
 - 📚 Siempre aprendiendo nuevas tecnologías y metodologías ágiles `Scrum`.
-- 🔍 Actualmente en búsqueda de una nueva `oportunidad laboral`.
+- 🔍 Actualmente trabajando en `CERV`.
 - 🌎 Puedes visitar [MI PORTAFOLIO](https://piscontedev.netlify.app/).
 
 <br>
