@@ -1,53 +1,59 @@
+<!-- ========================================================= -->
+<!--                    PISCONTEDEV README                      -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hola, soy Santiago Pisconte
+# PISCONTE<span style="color:#8B5CF6">DEV</span>
 
-### Full-Stack Developer · Software Developer
+### `FULL-STACK DEVELOPER`
 
-Desarrollo aplicaciones web, APIs y sistemas escalables con  
-**Laravel · React · Next.js · TypeScript**
-
-<a href="https://piscontedev.netlify.app/">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=406796&center=true&vCenter=true&width=720&height=60&lines=Full-Stack+Developer;Laravel+%C2%B7+React+%C2%B7+Next.js;APIs+%C2%B7+System+Design+%C2%B7+Architecture;VR+%2F+3D+Development;Building+scalable+software+solutions"
-    alt="Typing SVG"
-  />
-</a>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=60&lines=Laravel+%C2%B7+React+%C2%B7+Next.js;Full-Stack+Web+Development;APIs+%C2%B7+System+Design+%C2%B7+Architecture;Unity+%C2%B7+VR+%2F+3D+Development;Construyendo+software+escalable+y+mantenible"
+  alt="Typing SVG"
+/>
 
 <br>
 
-<a href="https://piscontedev.netlify.app/">
+<img
+  src="https://img.shields.io/badge/●_DISPONIBLE_PARA_PROYECTOS-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=7C3AED"
+  alt="Disponible para proyectos"
+/>
+
+<br><br>
+
+<a href="https://piscontedev.dailyia.com/">
   <img
-    src="https://img.shields.io/badge/PORTFOLIO-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/VER_PORTAFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Portfolio"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/santiago-pisconte/">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
     alt="LinkedIn"
-  />
-</a>
-
-<a href="https://github.com/santiagopiscontetecsup">
-  <img
-    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
   />
 </a>
 
 <a href="mailto:santiagopisconte20@gmail.com">
   <img
-    src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
+    src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=8B5CF6"
+    alt="Email"
+  />
+</a>
+
+<a href="https://github.com/santiagopiscontetecsup">
+  <img
+    src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=santiagopiscontetecsup&label=Visitas%20al%20perfil&color=0047AB&style=flat"
+  src="https://komarev.com/ghpvc/?username=santiagopiscontetecsup&label=VISITAS%20AL%20PERFIL&color=7C3AED&style=flat-square"
   alt="Visitas al perfil"
 />
 
@@ -55,195 +61,65 @@ Desarrollo aplicaciones web, APIs y sistemas escalables con
 
 ---
 
-# 👨‍💻 Sobre mí
-
-<picture>
-  <img
-    align="right"
-    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
-    width="220px"
-    alt="Developer Animation"
-  />
-</picture>
-
-Soy **Santiago Pisconte**, desarrollador de software Full Stack de **Arequipa, Perú**.
-
-Me especializo en transformar necesidades de negocio en **aplicaciones web, APIs y sistemas mantenibles y escalables**.
-
-Trabajo principalmente con **Laravel, React y Next.js**, participando tanto en desarrollo frontend y backend como en diseño de soluciones, arquitectura, bases de datos e integraciones.
-
-También cuento con experiencia desarrollando aplicaciones y experiencias **VR / 3D con Unity y C#**.
-
-- 💻 Desarrollo **Full Stack**
-- 🌐 Aplicaciones web modernas
-- ⚙️ Desarrollo y consumo de **APIs REST**
-- 🧩 **System Design** y arquitectura de software
-- 🏗️ Arquitectura hexagonal y microservicios
-- 🗄️ SQL Server y MySQL
-- 📱 Desarrollo de aplicaciones multiplataforma
-- 🎮 Desarrollo **VR / 3D con Unity y C#**
-- 🔧 Git y GitHub
-- 🚀 Rendimiento, mantenibilidad y escalabilidad
-- 🤝 Metodologías ágiles
-- 💼 Actualmente trabajando en **CERV**
-
-<br clear="right"/>
-
----
-
-# ⚡ Stack principal
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,js,dotnet,cs,mysql,unity,git,github&perline=12"
-  alt="Tech Stack"
-/>
-
-</div>
-
----
-
-# 🛠️ Tecnologías
-
-## Backend
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
-    alt="Laravel"
-  />
-  <img
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-    alt="PHP"
-  />
-  <img
-    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
-    alt=".NET"
-  />
-  <img
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white"
-    alt="C#"
-  />
-</p>
-
-## Frontend
-
-<p>
-  <img
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-    alt="React"
-  />
-  <img
-    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-    alt="Next.js"
-  />
-  <img
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript"
-  />
-  <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    alt="JavaScript"
-  />
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-    alt="HTML5"
-  />
-  <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-    alt="CSS3"
-  />
-</p>
-
-## Mobile
-
-<p>
-  <img
-    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-    alt="React Native"
-  />
-  <img
-    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-    alt="Android"
-  />
-</p>
-
-## VR / 3D
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"
-    alt="Unity"
-  />
-  <img
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white"
-    alt="C#"
-  />
-</p>
-
-## Bases de datos
-
-<p>
-  <img
-    src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
-    alt="SQL Server"
-  />
-  <img
-    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-    alt="MySQL"
-  />
-</p>
-
-## Herramientas
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-    alt="Git"
-  />
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-  <img
-    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-    alt="Postman"
-  />
-</p>
-
-## Sistemas Operativos
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-    alt="Windows"
-  />
-  <img
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-    alt="Linux"
-  />
-  <img
-    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-    alt="Ubuntu"
-  />
-</p>
-
----
-
-# 🚀 Lo que hago
+## `> whoami`
 
 <table>
 <tr>
+<td width="65%" valign="top">
+
+Soy **Santiago Pisconte**, desarrollador de software **Full Stack** de Arequipa, Perú.
+
+Me especializo en el desarrollo de aplicaciones web y sistemas orientados a resolver necesidades reales de negocio, combinando **backend robusto, interfaces modernas, APIs e integración de datos**.
+
+Trabajo principalmente con **Laravel, React y Next.js**, participando en distintas etapas del desarrollo: análisis, arquitectura, implementación, integración y evolución del producto.
+
+También cuento con experiencia en soluciones **VR / 3D con Unity y C#**, ampliando mi trabajo hacia experiencias digitales inmersivas e interactivas.
+
+```bash
+santiago@piscontedev:~$ status
+
+> Full-Stack Developer
+> Laravel + React + Next.js
+> APIs & System Design
+> Unity / VR / 3D
+> Arequipa, Perú
+```
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
+  width="250"
+  alt="Developer"
+/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> specialization.md`
+
+<div align="center">
+
+### Desarrollo de soluciones modernas, mantenibles y escalables.
+
+</div>
+
+<table>
+
+<tr>
+
 <td width="50%" valign="top">
 
-## 🌐 Full-Stack Development
+### ⚡ Full-Stack Development
 
-Desarrollo aplicaciones web completas integrando frontend, backend, bases de datos y servicios externos.
+Desarrollo aplicaciones completas conectando frontend, backend, bases de datos y servicios externos.
 
-<br>
-
-**Tecnologías**
+**Stack principal**
 
 `Laravel` `React` `Next.js` `TypeScript`
 
@@ -251,27 +127,25 @@ Desarrollo aplicaciones web completas integrando frontend, backend, bases de dat
 
 <td width="50%" valign="top">
 
-## ⚙️ APIs & Integraciones
+### ⚙️ Backend & APIs
 
-Diseño y desarrollo APIs REST e integraciones para plataformas y sistemas empresariales.
+Diseño APIs REST, lógica de negocio, integraciones y servicios preparados para aplicaciones empresariales.
 
-<br>
+**Tecnologías**
 
-**Enfoque**
-
-`REST API` `Laravel` `SQL` `Integrations`
+`Laravel` `PHP` `.NET` `SQL`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## 🧩 System Design
+### 🧩 System Design
 
-Diseño soluciones pensando en separación de responsabilidades, mantenibilidad, rendimiento y crecimiento.
-
-<br>
+Diseño soluciones priorizando organización, separación de responsabilidades, mantenibilidad y crecimiento.
 
 **Conceptos**
 
@@ -281,51 +155,138 @@ Diseño soluciones pensando en separación de responsabilidades, mantenibilidad,
 
 <td width="50%" valign="top">
 
-## 🎮 VR / 3D
+### 🥽 VR / 3D Development
 
-Desarrollo experiencias inmersivas, simuladores e interfaces interactivas utilizando Unity.
-
-<br>
+Desarrollo simuladores, entornos interactivos y experiencias inmersivas utilizando Unity.
 
 **Tecnologías**
 
 `Unity` `C#` `VR` `3D`
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-# 🎯 Áreas de experiencia
+## `> tech-stack --list`
 
-```text
-Full-Stack Development
-├── Backend Development
-├── Frontend Development
-├── REST APIs & Integrations
-├── System Design
-├── Database Design
-├── Software Architecture
-├── Mobile Development
-└── VR / Unity Development
-```
+<div align="center">
 
-> Mi objetivo no es únicamente escribir código, sino construir soluciones claras, mantenibles, escalables y capaces de evolucionar junto con las necesidades del negocio.
+### ⚡ STACK PRINCIPAL
+
+<br>
+
+<img
+  src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,js,dotnet,cs,mysql,git,github,unity&perline=12"
+  alt="Stack principal"
+/>
+
+</div>
+
+<br>
+
+### `// BACKEND`
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=dotnet&logoColor=00E5FF"/>
+</p>
+
+### `// FRONTEND`
+
+<p>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
+
+### `// MOBILE`
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+</p>
+
+### `// VR / 3D`
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=dotnet&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/VR_%2F_3D-111111?style=for-the-badge&logo=oculus&logoColor=00E5FF"/>
+</p>
+
+### `// DATABASES`
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
+</p>
+
+### `// TOOLS`
+
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+</p>
 
 ---
 
-# 💡 Mi enfoque de desarrollo
+## `> focus --current`
 
-Cuando desarrollo una solución busco mantener un equilibrio entre:
+```text
+PISCONTEDEV
+│
+├── 🌐 Full-Stack Development
+│   ├── Laravel
+│   ├── React
+│   ├── Next.js
+│   └── TypeScript
+│
+├── ⚙️ Backend Engineering
+│   ├── APIs REST
+│   ├── Business Logic
+│   ├── Authentication
+│   └── Integrations
+│
+├── 🧩 Software Architecture
+│   ├── System Design
+│   ├── Hexagonal Architecture
+│   ├── Microservices
+│   └── Scalable Systems
+│
+├── 🗄️ Data
+│   ├── SQL Server
+│   └── MySQL
+│
+└── 🥽 Immersive Development
+    ├── Unity
+    ├── C#
+    └── VR / 3D
+```
+
+---
+
+## `> development-principles`
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### 🧩
+### `01`
 
-**Arquitectura**
+### 🧩 Arquitectura
 
 Código organizado y responsabilidades claramente definidas.
 
@@ -333,52 +294,53 @@ Código organizado y responsabilidades claramente definidas.
 
 <td align="center" width="25%">
 
-### ⚡
+### `02`
 
-**Rendimiento**
+### ⚡ Performance
 
-Aplicaciones rápidas y eficientes.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔧
-
-**Mantenibilidad**
-
-Software fácil de comprender, modificar y evolucionar.
+Aplicaciones rápidas, eficientes y optimizadas.
 
 </td>
 
 <td align="center" width="25%">
 
-### 📈
+### `03`
 
-**Escalabilidad**
+### 🔧 Mantenibilidad
 
-Soluciones preparadas para crecer con el negocio.
+Software preparado para modificarse y evolucionar.
 
 </td>
+
+<td align="center" width="25%">
+
+### `04`
+
+### 📈 Escalabilidad
+
+Arquitecturas capaces de crecer junto con el producto.
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 📊 Estadísticas de GitHub
+## `> github --stats`
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=santiagopiscontetecsup&show_icons=true&count_private=true&locale=es&theme=tokyonight&hide_border=true"
-  height="170"
-  alt="Estadísticas de GitHub"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=santiagopiscontetecsup&show_icons=true&count_private=true&locale=es&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF"
+  alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopiscontetecsup&layout=compact&langs_count=8&locale=es&theme=tokyonight&hide_border=true"
-  height="170"
-  alt="Lenguajes más utilizados"
+  width="37%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopiscontetecsup&layout=compact&langs_count=8&locale=es&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"
+  alt="Top Languages"
 />
 
 </div>
@@ -388,7 +350,7 @@ Soluciones preparadas para crecer con el negocio.
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=santiagopiscontetecsup&theme=tokyonight&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=santiagopiscontetecsup&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF"
   alt="GitHub Streak"
 />
 
@@ -396,71 +358,67 @@ Soluciones preparadas para crecer con el negocio.
 
 ---
 
-# 🌐 Portfolio
+## `> portfolio --open`
 
 <div align="center">
 
-### Conoce más sobre mi trabajo
+### PISCONTEDEV
 
-Puedes encontrar más información sobre mis proyectos, experiencia y tecnologías en mi portfolio personal.
+Desarrollo web · Software Engineering · APIs · VR / 3D
 
 <br>
 
-<a href="https://piscontedev.netlify.app/">
+<a href="https://piscontedev.dailyia.com/">
   <img
-    src="https://img.shields.io/badge/VER_PORTAFOLIO-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Ver Portfolio"
+    src="https://img.shields.io/badge/ABRIR_PISCONTEDEV-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Abrir PISCONTEDEV"
   />
 </a>
+
+<br><br>
+
+**🌐 https://piscontedev.dailyia.com/**
 
 </div>
 
 ---
 
-# 🤝 Conecta conmigo
+## `> contact --available`
 
 <div align="center">
 
+### ¿Tienes un proyecto, producto o idea?
+
+Transformemos una necesidad técnica en una  
+**solución sólida, escalable y mantenible.**
+
+<br>
+
 <a href="mailto:santiagopisconte20@gmail.com">
   <img
-    src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
+    src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/santiago-pisconte/">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
     alt="LinkedIn"
-  />
-</a>
-
-<a href="https://github.com/santiagopiscontetecsup">
-  <img
-    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
   />
 </a>
 
 <a href="https://wa.me/51944777153">
   <img
-    src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    src="https://img.shields.io/badge/WHATSAPP-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366"
     alt="WhatsApp"
   />
 </a>
 
-<br><br>
-
-### ¿Tienes un proyecto, producto o idea?
-
-**Conversemos y construyamos algo útil.**
-
-<br>
-
-<a href="mailto:santiagopisconte20@gmail.com">
+<a href="https://github.com/santiagopiscontetecsup">
   <img
-    src="https://img.shields.io/badge/CONTACTARME-0047AB?style=for-the-badge&logo=minutemailer&logoColor=white"
-    alt="Contactarme"
+    src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 
@@ -468,24 +426,27 @@ Puedes encontrar más información sobre mis proyectos, experiencia y tecnologí
 
 ---
 
-# 💭 Filosofía de desarrollo
-
 <div align="center">
 
-### “Construir software no consiste únicamente en escribir código,  
-### sino en diseñar soluciones que resuelvan problemas reales.”
+```text
+santiago@piscontedev:~$ echo $PHILOSOPHY
+```
+
+### Construir software no consiste únicamente en escribir código.
+
+**Consiste en diseñar soluciones que resuelvan problemas reales.**
 
 <br>
 
-**💻 Code · 🚀 Build · 🧠 Learn · 🔁 Improve**
+`CODE` · `BUILD` · `LEARN` · `IMPROVE`
 
 <br><br>
 
-<a href="https://piscontedev.netlify.app/">Portfolio</a>
+<a href="https://piscontedev.dailyia.com/">PORTFOLIO</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/santiago-pisconte/">LinkedIn</a>
+<a href="https://github.com/santiagopiscontetecsup">GITHUB</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/santiagopiscontetecsup">GitHub</a>
+<a href="https://www.linkedin.com/in/santiago-pisconte/">LINKEDIN</a>
 
 <br><br>
 
