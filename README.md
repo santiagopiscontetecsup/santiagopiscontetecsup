@@ -19,9 +19,13 @@
 
 ### `> sobre mí`
 
+<img align="right" src="./assets/developer.png" width="310" alt="PISCONTEDEV - Developer Cyberpunk" />
+
 Soy **Santiago Pisconte**, desarrollador de software especializado en construir aplicaciones web y soluciones de negocio de extremo a extremo. Trabajo con **Laravel, React y Next.js**, desde el diseño de interfaces y APIs hasta la integración de datos y el despliegue.
 
 Me interesa crear software **mantenible, eficiente y preparado para evolucionar**. También he trabajado con **C# y Unity** en experiencias interactivas y desarrollo 3D.
+
+<br clear="right" />
 
 ### `> áreas de trabajo`
 
